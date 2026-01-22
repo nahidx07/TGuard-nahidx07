@@ -1,0 +1,5 @@
+{
+  "name": "TeleGuard Admin Console",
+  "description": "A high-performance dashboard for managing the Telegram Link-Only Moderation Bot. Monitor activity, broadcast messages to subscribers, and configure moderation rules.",
+  "requestFramePermissions": []
+}
